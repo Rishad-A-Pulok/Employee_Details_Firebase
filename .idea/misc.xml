@@ -4,8 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/SEIP_Course/Android/FirebasePractice/app/src/main/res/layout/activity_main.xml" value="0.18229166666666666" />
+        <entry key="..\:/SEIP_Course/Android/FirebasePractice/app/src/main/res/layout/employee_row.xml" value="0.22" />
+        <entry key="..\:/SEIP_Course/Android/FirebasePractice/app/src/main/res/layout/fragment_employee_details.xml" value="0.18229166666666666" />
         <entry key="..\:/SEIP_Course/Android/FirebasePractice/app/src/main/res/layout/fragment_employee_list.xml" value="0.18229166666666666" />
         <entry key="..\:/SEIP_Course/Android/FirebasePractice/app/src/main/res/layout/fragment_login.xml" value="0.18229166666666666" />
+        <entry key="..\:/SEIP_Course/Android/FirebasePractice/app/src/main/res/layout/fragment_new_employee.xml" value="0.18229166666666666" />
         <entry key="..\:/SEIP_Course/Android/FirebasePractice/app/src/main/res/menu/main_menu.xml" value="0.18229166666666666" />
       </map>
     </option>
